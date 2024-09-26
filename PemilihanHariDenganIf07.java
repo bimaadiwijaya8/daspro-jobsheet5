@@ -4,7 +4,7 @@ public class PemilihanHariDenganIf07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int dayName;
+        double dayName;
         String dayType;
 
         System.out.println("Input day name: ");
